@@ -14,13 +14,13 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/malejandro13/advanced-css-grid-and-sass-trillo-project.git"
+		"url": "git+https://github.com/malejandro13/advanced-css-grid-and-sass-nexter-project.git"
 	},
 	"keywords": [],
 	"author": "malejandro13",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/malejandro13/advanced-css-grid-and-sass-trillo-project/issues"
+		"url": "https://github.com/malejandro13/advanced-css-grid-and-sass-nexter-project/issues"
 	},
 	"devDependencies": {
 		"autoprefixer": "^9.7.4",
